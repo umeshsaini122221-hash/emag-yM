@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Horizon: 3D Battle Royale Mobile",
+  "description": "An original, mobile-optimized 3D third-person battle royale game designed for Android Chrome landscape gameplay with WebGL 2 rendering, realistic compact island, tactical touch controls, and multiplayer architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
